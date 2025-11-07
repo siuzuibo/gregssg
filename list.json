@@ -1,0 +1,12 @@
+[
+  {
+    "id": "001",
+    "name": "test-image-1",
+    "url": "https://pub-6ce9f6b71592457387168b2c686c700b.r2.dev/9.webp"
+  },
+  {
+    "id": "002",
+    "name": "test-image-2",
+    "url": "https://pub-6ce9f6b71592457387168b2c686c700b.r2.dev/24.webp"
+  }
+]
